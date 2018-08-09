@@ -1,7 +1,8 @@
 <?php
 
+namespace App;
+
 class Brackets {
-	
 
 	public function analysis($value)
 	{
@@ -30,5 +31,6 @@ class Brackets {
 		} 
 
 		return false;
+
 	}
 }
