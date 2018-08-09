@@ -1,0 +1,17 @@
+{
+    "name": "sergrage/brackets-analysis",
+    "description": "Analyzes the correctness of the arrangement of parentheses in the mathematical equation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shmatovskiy Sergey",
+            "email": "elenergetica87@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": { 
+        "cassmap": ["src"]
+    }
+}
